@@ -1,6 +1,6 @@
 # Fixes
 
-# Jupyter Lab
+### Jupyter Lab
 -- **Jupyter lab does not recognize an anaconda environment**
 
 For this type of error follow: 
